@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e82eff3-6043-4055-9aee-4b084264b46b" name="Changes" comment="Multiplikationstabellen">
+    <list default="true" id="5e82eff3-6043-4055-9aee-4b084264b46b" name="Changes" comment="pytest + workspace">
       <change afterPath="$PROJECT_DIR$/2_skriv_klart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/my_app/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_count_vowels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_uppg2_1celsius.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_uppg2_1celsius.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_uppg2_4is_sorted_ascending.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppg2_4is_sorted_ascending.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_uppgift1_3count_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_uppgift1_3count_vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_uppgift1_4find_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppgift1_4find_max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_uppgift1_5_find_2nd_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppgift1_5_find_2nd_max.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +83,7 @@
       <recent name="C:\Temp\Testautomation\NBI\PythonProject\05_TDD\my_app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Temp\Testautomation\NBI\PythonProject\05_TDD\src\my_app" />
       <recent name="C:\Temp\Testautomation\NBI\PythonProject\05_TDD\tests" />
       <recent name="C:\Temp\Testautomation\NBI\PythonProject\05_TDD\src" />
     </key>
@@ -167,7 +173,14 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1781268608857</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="pytest + workspace">
+      <option name="closed" value="true" />
+      <created>1781268711586</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1781268711586</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +196,7 @@
     <MESSAGE value="uppgift 2_1 C to F" />
     <MESSAGE value="Söka efter användare" />
     <MESSAGE value="Multiplikationstabellen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiplikationstabellen" />
+    <MESSAGE value="pytest + workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="pytest + workspace" />
   </component>
 </project>
