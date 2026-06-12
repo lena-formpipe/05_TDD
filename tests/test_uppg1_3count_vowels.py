@@ -1,6 +1,6 @@
 # ÖVNING 1_3 count_vowels
 
-from my_app.uppgift1_3count_vowels import *
+from my_app.uppg1_3count_vowels import *
 import pytest
 
 

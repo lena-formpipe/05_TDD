@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e82eff3-6043-4055-9aee-4b084264b46b" name="Changes" comment="pytest + workspace">
-      <change afterPath="$PROJECT_DIR$/2_skriv_klart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_count_vowels.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_uppg2_1celsius.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_uppg2_1celsius.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_uppg2_4is_sorted_ascending.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppg2_4is_sorted_ascending.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_uppgift1_3count_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_uppgift1_3count_vowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_uppgift1_4find_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppgift1_4find_max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_uppgift1_5_find_2nd_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppgift1_5_find_2nd_max.py" afterDir="false" />
+    <list default="true" id="5e82eff3-6043-4055-9aee-4b084264b46b" name="Changes" comment="edits">
+      <change beforePath="$PROJECT_DIR$/src/my_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_app/uppgift1_1 och_1_2diskussionsuppgift.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppg1_1 och_1_2diskussionsuppgift.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_app/uppgift1_3count_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppg1_3count_vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_app/uppgift1_4find_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppg1_4find_max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_app/uppgift1_5_find_2nd_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppg1_5_find_2nd_max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_uppgift1_3count_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_uppg1_3count_vowels.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +63,7 @@
     "Python.balansera_listor.executor": "Run",
     "Python.count_vowels.executor": "Run",
     "Python.find_median.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.multiplication_table.executor": "Run",
     "Python.uppgift1_3count_vowels.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -180,7 +177,35 @@
       <option name="presentableId" value="LOCAL−00011" />
       <updated>1781268711586</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL−00012" summary="edits">
+      <option name="closed" value="true" />
+      <created>1781272323030</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1781272323030</updated>
+    </task>
+    <task id="LOCAL−00013" summary="edits">
+      <option name="closed" value="true" />
+      <created>1781272502481</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1781272502481</updated>
+    </task>
+    <task id="LOCAL−00014" summary="edits">
+      <option name="closed" value="true" />
+      <created>1781272513883</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1781272513883</updated>
+    </task>
+    <task id="LOCAL−00015" summary="edits">
+      <option name="closed" value="true" />
+      <created>1781273495643</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1781273495644</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +222,7 @@
     <MESSAGE value="Söka efter användare" />
     <MESSAGE value="Multiplikationstabellen" />
     <MESSAGE value="pytest + workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="pytest + workspace" />
+    <MESSAGE value="edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="edits" />
   </component>
 </project>
