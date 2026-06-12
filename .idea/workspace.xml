@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e82eff3-6043-4055-9aee-4b084264b46b" name="Changes" comment="uppgift 2 count_vowels rättat en rad">
-      <change afterPath="$PROJECT_DIR$/1_diskussionsuppgift.py" afterDir="false" />
+    <list default="true" id="5e82eff3-6043-4055-9aee-4b084264b46b" name="Changes" comment="Multiplikationstabellen">
       <change afterPath="$PROJECT_DIR$/2_skriv_klart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/autocomplete_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/balansera_listor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/count_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/find_median.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/is_sorted_ascending.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/multiplication_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_autocomplete_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_balansera_listor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_count_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_find_median.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_is_sorted_ascending.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_multiplication_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_uppgift1_3count_vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_uppgift1_4find_max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_uppgift1_5_find_2nd_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_app/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_app/count_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppgift1_3count_vowels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_count_vowels.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +111,63 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1781013316851</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="uppgift 1">
+      <option name="closed" value="true" />
+      <created>1781265201428</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1781265201428</updated>
+    </task>
+    <task id="LOCAL−00004" summary="uppgift 2_2">
+      <option name="closed" value="true" />
+      <created>1781265720378</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1781265720378</updated>
+    </task>
+    <task id="LOCAL−00005" summary="uppgift 2_3 find median">
+      <option name="closed" value="true" />
+      <created>1781265883994</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1781265883994</updated>
+    </task>
+    <task id="LOCAL−00006" summary="uppgift 2_4 is_sorted_ascending">
+      <option name="closed" value="true" />
+      <created>1781267142340</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1781267142341</updated>
+    </task>
+    <task id="LOCAL−00007" summary="uppgift 2_1 C to F">
+      <option name="closed" value="true" />
+      <created>1781268446102</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1781268446102</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Söka efter användare">
+      <option name="closed" value="true" />
+      <created>1781268554565</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1781268554565</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Multiplikationstabellen">
+      <option name="closed" value="true" />
+      <created>1781268592397</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1781268592397</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Multiplikationstabellen">
+      <option name="closed" value="true" />
+      <created>1781268608857</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1781268608857</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +176,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uppgift 2 count_vowels och test_count_vowels" />
     <MESSAGE value="uppgift 2 count_vowels rättat en rad" />
-    <option name="LAST_COMMIT_MESSAGE" value="uppgift 2 count_vowels rättat en rad" />
+    <MESSAGE value="uppgift 1" />
+    <MESSAGE value="uppgift 2_2" />
+    <MESSAGE value="uppgift 2_3 find median" />
+    <MESSAGE value="uppgift 2_4 is_sorted_ascending" />
+    <MESSAGE value="uppgift 2_1 C to F" />
+    <MESSAGE value="Söka efter användare" />
+    <MESSAGE value="Multiplikationstabellen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiplikationstabellen" />
   </component>
 </project>
