@@ -2,7 +2,6 @@
 # föreslå fler testfall, som täcker in alla olika möjligheter för count_vowels.
 # Returnerar ett heltal med antalet vokaler som finns i ordet (aeiouyåäö)
 
-from collections import Counter
 
 def count_vowels(word):
     # Omvandla till gemener för enklare hantering
@@ -12,8 +11,9 @@ def count_vowels(word):
     if not isinstance(word, str):
         raise TypeError(f"Input måste vara en sträng, inte {type(word)}.")
     gemener = word.lower()
-    vokaler = "aeiouyåäö"  # kollar endast gemener
+    vokaler = "aeiouyåäö"  # vi kollar endast gemener
     antal_vokaler = 0
+
     # hantera tom sträng
     if word == "":
         return 0
@@ -25,4 +25,3 @@ def count_vowels(word):
         return antal_vokaler
     # return None
 
-print(count_vowels("hej dÅ"))

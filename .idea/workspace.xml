@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e82eff3-6043-4055-9aee-4b084264b46b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/05_TDD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5e82eff3-6043-4055-9aee-4b084264b46b" name="Changes" comment="uppgift 2 count_vowels rättat en rad">
       <change afterPath="$PROJECT_DIR$/1_diskussionsuppgift.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/2_skriv_klart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_app/count_vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_count_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_app/autocomplete_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_app/balansera_listor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_app/count_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_app/find_median.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_app/is_sorted_ascending.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_app/multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_autocomplete_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_balansera_listor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_count_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_find_median.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_is_sorted_ascending.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_uppgift1_3count_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_uppgift1_4find_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_uppgift1_5_find_2nd_max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_app/count_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_app/uppgift1_3count_vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_count_vowels.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +39,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lena-formpipe&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lena-formpipe/05_TDD&quot;,
+    &quot;accountId&quot;: &quot;2d186bf0-7bc3-4262-aa74-bcf678efecde&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -47,9 +66,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_autocomplete_list.py.executor": "Run",
+    "Python tests.Python tests in test_balansera_listor.py.executor": "Run",
+    "Python tests.Python tests in test_count_vowels.py.executor": "Run",
+    "Python tests.Python tests in test_count_words.py.executor": "Run",
+    "Python tests.Python tests in test_find_median.py.executor": "Run",
+    "Python tests.Python tests in test_is_sorted_ascending.py.executor": "Run",
     "Python.1_diskussionsuppgift.executor": "Run",
     "Python.3a_diskutera_fler_testfall.executor": "Run",
+    "Python.autocomplete_list.executor": "Run",
+    "Python.balansera_listor.executor": "Run",
     "Python.count_vowels.executor": "Run",
+    "Python.find_median.executor": "Run",
+    "Python.multiplication_table.executor": "Run",
+    "Python.uppgift1_3count_vowels.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -83,9 +113,29 @@
       <option name="presentableId" value="Default" />
       <updated>1780924052816</updated>
     </task>
+    <task id="LOCAL−00001" summary="uppgift 2 count_vowels och test_count_vowels">
+      <option name="closed" value="true" />
+      <created>1781013154583</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1781013154583</updated>
+    </task>
+    <task id="LOCAL−00002" summary="uppgift 2 count_vowels rättat en rad">
+      <option name="closed" value="true" />
+      <created>1781013316851</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1781013316851</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uppgift 2 count_vowels och test_count_vowels" />
+    <MESSAGE value="uppgift 2 count_vowels rättat en rad" />
+    <option name="LAST_COMMIT_MESSAGE" value="uppgift 2 count_vowels rättat en rad" />
   </component>
 </project>
