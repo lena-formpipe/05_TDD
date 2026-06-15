@@ -1,8 +1,11 @@
-# Uppgift 1_4
-# Formulera testfall för en funktion som hittar största talet i en lista.
-# Returnerar det största talet i listan
-# Returnerar None om det inte finns något
+"""
+Uppgift 1_4
+ Formulera testfall för en funktion som hittar största talet i en lista.
+ Returnerar det största talet i listan
+ Returnerar None om det inte finns något 
+"""
 
+import pytest
 
 def find_max(list):
     return None

@@ -21,7 +21,7 @@
 def balansera_listor(list_a:list, list_b:list):
     diff_length = len(list_a) - len(list_b)
     # om diff mellan -1 och 1
-    if abs(diff_length <= 1) :
+    if abs(diff_length == 1) or diff_length == 0:
         return list_a, list_b
     else:
         # abs(x) gör att vi inte behöver fundera om värdet är positivt eller negativt
@@ -29,7 +29,7 @@ def balansera_listor(list_a:list, list_b:list):
             if len(list_a) > len(list_b):
                 list_b.append(list_a.pop())
             else:
-                lista_a.append(lista_b.pop())
+                list_a.append(list_b.pop())
         return list_a, list_b
 
-print(balansera_listor([1, 2, 3,4, 5], [1, 2]))
+

@@ -1,7 +1,10 @@
-# ACCEPTANSKRITERIER
-# AK1: om tal n eller limit rader inte är en int ska funktionen returnera TypeError
-# AK2: om n och limit är int ska funktionen returnera en utskrift av multiplikationstabellen enligt limit
-# AK3: om limit > 100 så ska funktionen returnera False
+"""
+ACCEPTANSKRITERIER
+AK1: om tal n eller limit rader inte är en int ska funktionen returnera TypeError
+AK2: om n och limit är int ska funktionen returnera en utskrift av multiplikationstabellen enligt limit
+AK3: om limit > 100 så ska funktionen returnera False
+"""
+
 
 
 from my_app.multiplication_table import *

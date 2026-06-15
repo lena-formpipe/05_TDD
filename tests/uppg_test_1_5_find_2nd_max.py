@@ -1,12 +1,14 @@
-# *******************************************************************************************
-# uppgift 1_5
-# Formulera testfall för en funktion som hittar näst största talet i en lista!
-# Returnerar det nästa största talet i listan
-# Returnerar None om det inte finns något
-# Om det är delad förstaplats så returneras det talet.
+"""
+uppgift 1_5
+Formulera testfall för en funktion som hittar näst största talet i en lista!
+Returnerar det nästa största talet i listan
+Returnerar None om det inte finns något
+Om det är delad förstaplats så returneras det talet.
 
+uppgiften innefattar inte att skriva klart funktionen
+"""
+import pytest
 
-# uppgiften innefattar inte att skriva klart funktionen
 def find_2nd_max(list):
     return None
 
@@ -37,7 +39,7 @@ def test_find_2nd_max__only_one_number():
     one_number = [4]
     expected = None
     # act
-    find_2nd_max(one_number)
+    actual = find_2nd_max(one_number)
     # assert
     assert actual == expected
 

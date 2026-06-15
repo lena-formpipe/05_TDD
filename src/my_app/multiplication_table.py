@@ -24,5 +24,3 @@ def multiplication_table(n, limit):
         i += 1
     return multiplication_list
 
-# TODO hur hantera om parmetrar saknas?
-print(multiplication_table(2, 3))

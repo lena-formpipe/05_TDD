@@ -1,21 +1,25 @@
-# 4 Betrakta funktionen is_sorted_ascending(numbers).
-# Den ska returnera True om listan numbers är sorterad i stigande ordning, False annars.
-# a Vilka ekvivalensklasser har numbers?
-# --> TRUE och FALSE
+"""
+LÄGGER DENNA I TEST-MAPPEN
+4 Betrakta funktionen is_sorted_ascending(numbers).
+Den ska returnera True om listan numbers är sorterad i stigande ordning, False annars.
+a Vilka ekvivalensklasser har numbers?
+--> TRUE och FALSE
+"""
 
 def is_sorted_ascending(numbers):
     return False
+"""
+ 4b Formulera krav och acceptanskriterier för funktionen.
+ Som en utvecklare
+ vill jag ha en funktion som kan tala om ifall en lista med nummer är sorterad i stigande ordning
+ så att jag kan använda denna funktion i min kod.
 
-# 4b Formulera krav och acceptanskriterier för funktionen.
-# Som en utvecklare
-# vill jag ha en funtion som kan tala om ifall en lista med nummer är sorterad i stigande ordning
-# så att jag kan använda denna funktion i min kod.
-
-# Acceptanskriterier:
-# 	Sorterad i stigande ordning TRUE
-# 	Sorterad i minskande ordning FALSE
-# 	Helt osorterad FALSE
-#   Tom lista FALSE
+ Acceptanskriterier:
+ 	Sorterad i stigande ordning TRUE
+ 	Sorterad i minskande ordning FALSE
+ 	Helt osorterad FALSE
+   Tom lista FALSE
+"""
 
 # 4c Skriv testfall för funktionen.
 

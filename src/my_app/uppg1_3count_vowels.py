@@ -1,7 +1,8 @@
-# 3a Diskutera följande kod. Ett testfall räcker inte för att testa funktionen
-# föreslå fler testfall, som täcker in alla olika möjligheter för count_vowels.
-# Returnerar ett heltal med antalet vokaler som finns i ordet (aeiouyåäö)
-
+"""
+3a Diskutera följande kod. Ett testfall räcker inte för att testa funktionen
+föreslå fler testfall, som täcker in alla olika möjligheter för count_vowels.
+Returnerar ett heltal med antalet vokaler som finns i ordet (aeiouyåäö).
+"""
 
 def count_vowels(word):
     # Omvandla till gemener för enklare hantering

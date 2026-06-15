@@ -16,7 +16,6 @@
 # AK4: annars (om strängarna är olika) returnera False(eller tom lista?)
 
 
-
 def autocomplete_list(user_input: str, name_list:list):
     # kontroll att input och name är strängar
     if not isinstance(user_input, str):
@@ -35,9 +34,3 @@ def autocomplete_list(user_input: str, name_list:list):
         return False
 
 
-
-# Tips: skriv upp sådant som du ska komma ihåg med "TODO"
-# TODO: testa med små och stora bokstäver
-
-test = autocomplete_list("ANN", ["Peter", "Annmarie", "GullANn"])
-print(test)
